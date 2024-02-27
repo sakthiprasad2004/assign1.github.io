@@ -1,0 +1,15 @@
+body{
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-image: url(https://static.cricbuzz.com/a/img/v1/1080x608/i1/c160382/virat-kohlis-stupendous-run-in-international-cricket-continued-as-he-became-the-fastest-to-the-10000-run-mark-in-odis.jpg);
+}
+form
+{
+    margin-top: 100px;
+    background: rgba(22, 22, 22, 0.553);
+    color: white;
+    height: 300px;
+    width: 300px;
+}
